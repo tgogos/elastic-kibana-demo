@@ -26,3 +26,9 @@ services:
 
 
 ## visualize with `kibana`
+
+(Images are links to video files)
+
+[![Watch the video](README/video-preview-index-pattern.jpg)](README/create_index_pattern.mp4)
+
+[![Watch the video](README/video-preview-new-visualization.jpg)](README/create_visualization.mp4)
